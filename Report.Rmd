@@ -1,7 +1,7 @@
 ---
 title: "HarvardX: PH125.9x Data Science  \n   MovieLens Rating Prediction Project"
-author: "Gabriele Mineo"
-date: "March 24, 2019"
+author: "Raghu Modi"
+date: "Feburary 15 2021"
 output:
   pdf_document:
     toc: true
@@ -14,7 +14,7 @@ output:
 
 This project is related to the MovieLens Project of the HervardX: PH125.9x Data Science: Capstone course. The present report start with a general idea of the project and by representing its objectif.
 
-Then the given dataset will be prepared and setup. An exploratory data analysis is carried out in order to develop a machine learning algorithm that could predict movie ratings until a final model. Results will be explained. Finally the report ends with some concluding remarks.
+Then the given dataset will be prepared and setup. An exploratory data analysis is carried out in order to develop a machine learning algorithm that could predict movie ratings until a final model. Results will be explained. Finally the report ends with concluding remarks.
 
 
 ## Introduction
